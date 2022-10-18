@@ -1,16 +1,16 @@
-### Hi there 👋
+<img src = "gitbrabo.png" width = "325px" align = "right">
 
-<!--
-**Unluckyy/Unluckyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, bom ter você por aqui!
+  <div id="badges">
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Estudando para me tornar um Full-stack
+- 👩‍💻 Aprendendo sobre Back-end e Front-end
+
+<div> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title= "JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  title="Css" alt="Css"  width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp"  width="40" height="40"/>&nbsp;
+</div>
